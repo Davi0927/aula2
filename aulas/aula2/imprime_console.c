@@ -1,4 +1,4 @@
-#include <stdio.h> //biblioteca de entrada e saida no console
+cd#include <stdio.h> //biblioteca de entrada e saida no console
 int main() {
   //imprime um numero inteiro na tela
 printf("Um texto qualquer\n");
